@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kcnavarro
 - 👀 I’m interested in data analytics and data science!
-- 🌱 I’m currently learning Excel, Python, and IBM Cognos.
+- 🌱 I’m currently learning Python, SQL, Excel, and IBM Cognos.
 - 📫 How to reach me: kclemnav@gmail.com
 
 <!---
