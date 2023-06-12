@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kcnavarro
-- 👀 I’m interested in data analytics and data science!
+- 👀 I’m interested in actuarial science, data analytics, and data visualization!
 - 🌱 I’m currently learning Python, SQL in Tableau, R Programming, and Microsoft Excel, as well as the power of data visualization.
-- 📫 How to reach me: kclemnav@gmail.com
+- 📫 How to reach me: kclemnav@gmail.com or find me on LinkedIn!
 
 <!---
 kcnavarro/kcnavarro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
